@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amruthaam1908
-- 👀 I’m interested in Full stack development, Web development, Testing
-- 🌱 I’m currently persuing MCA in Nitte Meenakshi Institute of Technology, Bangalore
-- 💞️ I’m looking to collaborate on IT companies, Non IT Sector
+- 👀 I’m interested in Data Analytics, Machine Learning, Artificial Intelligence 
+- 🌱 I'm MCA graduate from Nitte Meenakshi Institute of Technology in the year 2026, Bangalore
+- 💞️ I’m looking to collaborate on IT companies. 
 - 📫 How to reach me amruthaam1908@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
